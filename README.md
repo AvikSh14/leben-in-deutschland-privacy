@@ -12,7 +12,6 @@ To provide a frictionless and secure learning experience, we collect and store t
 
 * **Study Progress & App Data:** Your quiz progress, correct streaks, and personal notes are stored locally on your device. We prioritize offline-first functionality to ensure your data remains in your control.
 * **Account Information:** To securely manage your session and sync your progress (if applicable), we may collect your email address during account creation. 
-* **In-App Purchases:** If you choose to upgrade to our Premium Exam Simulator, all payments are processed securely through Google Play Billing. We do not collect or store your credit card details or billing address.
 
 ## 2. Log Data and Analytics
 
