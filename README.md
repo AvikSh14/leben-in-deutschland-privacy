@@ -1,35 +1,42 @@
-Privacy Policy
+# Privacy Policy
 
-Effective Date: March 17, 2026
+**Effective Date:** March 21, 2026
 
-MetalHeadCoder ("we", "us", or "our") built the Leben in Deutschland app as a Free app. This SERVICE is provided by MetalHeadCoder at no cost and is intended for use as is.
+MetalHeadCoder ("we", "us", or "our") provides the *Leben in Deutschland* app (the "Service") as a Freemium app. This Service is provided at no cost for basic features, with optional premium upgrades available. 
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This page informs visitors of our policies regarding the collection, use, and disclosure of Personal Information for anyone using our Service. By using the Service, you agree to the collection and use of information in relation to this policy.
 
-Information Collection and Use
-To provide a frictionless experience, we prioritize your privacy. The app operates fundamentally through anonymous authentication and local storage.
+## 1. Information Collection and Use
 
-Study Progress: All your quiz progress, correct streaks, and personal notes are stored entirely locally on your device using an offline database. We do not transmit or store your study progress on our servers.
+To provide a frictionless and secure learning experience, we collect and store the minimum amount of data necessary.
 
-Authentication: We use anonymous authentication to securely manage your session. This process generates a randomized, anonymous ID. It does not collect your name, email address, or any other personally identifiable information (PII).
+* **Study Progress & App Data:** Your quiz progress, correct streaks, and personal notes are stored locally on your device. We prioritize offline-first functionality to ensure your data remains in your control.
+* **Account Information:** To securely manage your session and sync your progress (if applicable), we may collect your email address during account creation. 
+* **In-App Purchases:** If you choose to upgrade to our Premium Exam Simulator, all payments are processed securely through Google Play Billing. We do not collect or store your credit card details or billing address.
 
-Log Data and Crash Reporting
-Whenever you use our Service, in a case of an error or crash in the app, we collect data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other crash-related statistics. This data is strictly used to identify bugs and improve app stability.
+## 2. Log Data and Analytics
 
-Service Providers
-We may employ third-party companies and services to facilitate our Service. These third parties have access to your anonymous Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Whenever you use our Service, we automatically collect data and information on your device called Log Data, particularly in the event of an app crash. 
 
-Link to the privacy policy of third-party service providers used by the app:
+This Log Data may include information such as your device's Internet Protocol ("IP") address, device name, operating system version, app configuration, and the time and date of your use. This data is fully pseudonymized and is strictly used to identify bugs, monitor app performance, and improve stability.
 
-Google Analytics for Firebase / Firebase Crashlytics
+## 3. Third-Party Service Providers
 
-Supabase
+We employ trusted third-party companies and services to facilitate our Service, provide authentication, and analyze how our Service is used. These third parties have access to your data only to perform specific tasks on our behalf and are legally obligated not to disclose or use it for any other purpose.
 
-Children’s Privacy
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+You can review the privacy policies of our service providers here:
+* [Google Play Services](https://policies.google.com/privacy)
+* [Google Analytics for Firebase & Crashlytics](https://firebase.google.com/policies/analytics)
+* [Supabase](https://supabase.com/privacy)
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
+## 4. Children’s Privacy
 
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at plinkin444@gmail.com.
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. 
+
+## 5. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+
+## 6. Contact Us
+
+If you have any questions, concerns, or suggestions regarding our Privacy Policy or data practices, please contact us at: **plinkin444@gmail.com**.
