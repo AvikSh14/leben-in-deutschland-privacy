@@ -1,3 +1,9 @@
+<style>
+  footer, .site-footer, .page-footer {
+    display: none !important;
+  }
+</style>
+
 # Privacy Policy
 
 **Effective Date:** April 19, 2026
