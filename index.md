@@ -1,5 +1,5 @@
 <style>
-  footer, .site-footer, .page-footer, .github-corner {
+  footer, .site-footer, .page-footer, .github-corner, #downloads {
     display: none !important;
   }
 </style>
