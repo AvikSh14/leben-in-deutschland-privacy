@@ -1,5 +1,9 @@
 <style>
-  footer, .site-footer, .page-footer {
+  footer, .site-footer, .page-footer, .github-corner {
+    display: none !important;
+  }
+
+  header {
     display: none !important;
   }
 </style>
