@@ -1,2 +1,6 @@
-title: Leben in Deutschland
-theme: jekyll-theme-cayman
+title: Privacy Policy
+description: ""
+theme: jekyll-theme-slate  # Or use jekyll-theme-midnight
+show_downloads: false
+github:
+  is_project_page: false
