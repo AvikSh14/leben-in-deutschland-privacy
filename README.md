@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** March 21, 2026
+**Effective Date:** April 19, 2026
 
-MetalHeadCoder ("we", "us", or "our") provides the *Leben in Deutschland* app (the "Service") as a Freemium app. This Service is provided at no cost for basic features, with optional premium upgrades available. 
+MetalHeadCoder ("we", "us", or "our") provides the *Leben in Deutschland* app (the "Service") as a Free app. This Service is provided at no cost and is intended for use as is. 
 
 This page informs visitors of our policies regarding the collection, use, and disclosure of Personal Information for anyone using our Service. By using the Service, you agree to the collection and use of information in relation to this policy.
 
@@ -11,7 +11,7 @@ This page informs visitors of our policies regarding the collection, use, and di
 To provide a frictionless and secure learning experience, we collect and store the minimum amount of data necessary.
 
 * **Study Progress & App Data:** Your quiz progress, correct streaks, and personal notes are stored locally on your device. We prioritize offline-first functionality to ensure your data remains in your control.
-* **Account Information:** To securely manage your session and sync your progress (if applicable), we may collect your email address during account creation. 
+* **Account Information:** To securely manage your session and sync your progress, we collect your email address during account creation. 
 
 ## 2. Log Data and Analytics
 
