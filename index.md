@@ -25,7 +25,12 @@ Whenever you use our Service, we automatically collect data and information on y
 
 This Log Data may include information such as your device's Internet Protocol ("IP") address, device name, operating system version, app configuration, and the time and date of your use. This data is fully pseudonymized and is strictly used to identify bugs, monitor app performance, and improve stability.
 
-## 3. Third-Party Service Providers
+## 3. Account and Data Deletion
+
+If you wish to delete your account and all associated cloud data (exam history), you can do so directly within the app under the "Profile & Analytics" section by tapping the logout icon next to your linked email.
+Alternatively, you can request manual deletion by emailing us at plinkin444@gmail.com. Please provide your account email, and we will process the deletion of your cloud data and authentication record within 7 business days.
+
+## 4. Third-Party Service Providers
 
 We employ trusted third-party companies and services to facilitate our Service, provide authentication, and analyze how our Service is used. These third parties have access to your data only to perform specific tasks on our behalf and are legally obligated not to disclose or use it for any other purpose.
 
@@ -34,14 +39,14 @@ You can review the privacy policies of our service providers here:
 * [Google Analytics for Firebase & Crashlytics](https://firebase.google.com/policies/analytics)
 * [Supabase](https://supabase.com/privacy)
 
-## 4. Children’s Privacy
+## 5. Children’s Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. 
 
-## 5. Changes to This Privacy Policy
+## 6. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-## 6. Contact Us
+## 7. Contact Us
 
 If you have any questions, concerns, or suggestions regarding our Privacy Policy or data practices, please contact us at: **plinkin444@gmail.com**.
